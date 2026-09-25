@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Gabriel Esteter, tenho 24 anos e sou natural de Mococa, no interior de São Paulo. Concluí o curso técnico em Análise e Desenvolvimento de Sistemas pela UNIP em 2022. Sou apaixonado por tecnologia desde pequeno e sigo constantemente me aprimorando, com foco em programação e nas diversas áreas da tecnologia.
+Me chamo Gabriel Esteter, tenho 25 anos e sou natural de Mococa, no interior de São Paulo. Concluí o curso técnico em Análise e Desenvolvimento de Sistemas pela UNIP em 2022. Sou apaixonado por tecnologia desde pequeno e sigo constantemente me aprimorando, com foco em programação e nas diversas áreas da tecnologia.
 
 <p>
     </a> 
